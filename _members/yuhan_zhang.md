@@ -30,3 +30,8 @@ profile:
         318 Campus Drive <br />
         Stanford, CA 94305
 
+---
+
+Bio
+
+## Short Bio
