@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 page-title: Publications
-description: Publications.
+description: Sample citations stole from your website.
 years: [2024, 2023]
 nav: true
 nav_order: 4
