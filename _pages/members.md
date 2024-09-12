@@ -13,7 +13,7 @@ nav_rank: 2
 {% for group in groups %}
 ## {{ group }}
 
- {% assign members = site.members | sort: "group_order" | where: "group", group %}
+ {% assign members = site.members %}
     {% for member in members %}
 <p>
     <div class="card {% if member.inline == false %}hoverable{% endif %}">
