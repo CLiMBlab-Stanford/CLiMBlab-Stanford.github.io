@@ -1,4 +1,5 @@
----
+<!-- For future use -->
+<!-- ---
 layout: page
 title: collaborators
 page-title: Collaborators
@@ -29,5 +30,5 @@ description:
             </a>
         </div>
     {% endfor %}
-</div>
+</div> -->
 
