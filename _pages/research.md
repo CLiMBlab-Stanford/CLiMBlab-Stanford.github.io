@@ -3,10 +3,10 @@ layout: page
 title: research
 page-title: Research
 permalink: /research/
-description: Highlighted research from the Epidiagnostics Group.
+description: Highlighted research 
 nav: true
 nav_order: 3
-display_categories: [cancer diagnostics, cancer biology & biomarker discovery]
+display_categories: [category, can be displayed here]
 horizontal: false
 ---
 

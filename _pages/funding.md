@@ -7,7 +7,7 @@ nav: false
 nav_rank: 6
 nav_order: 6
 sitetitle: true
-description: We are truly grateful to our generous sponsors, without whom none of our exciting research would be possible.
+description:
 
 ---
 

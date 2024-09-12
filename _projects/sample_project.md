@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project name
-description: iopsies.
+description: 
 redirect: 
 importance: 1
 category: 
