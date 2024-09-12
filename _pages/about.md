@@ -3,11 +3,11 @@ layout: about
 title: about
 page-title: About
 permalink: /
-subtitle: subtitle:If you feel the need to have something here
+subtitle: If you feel the need to have something here
 
 profile:
   align: right
-  image: 1.jpg
+  image: examples/1.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
