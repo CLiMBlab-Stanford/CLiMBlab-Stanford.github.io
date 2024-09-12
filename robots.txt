@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://CLiMBlab-Stanford.github.io/sitemap.xml
+Sitemap: https://hunky-d0ry.github.io/sitemap.xml
