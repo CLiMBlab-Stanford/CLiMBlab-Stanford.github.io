@@ -20,7 +20,7 @@ profile:
     name: Yuhan Zhang, PhD
     position: Postdoctoral Researcher
     align: right
-    image: bio_yuhan_zhang.jpg
+    image: bio_yuhan.jpg
     email: yuhancz@stanford.edu
     website: https://sites.google.com/view/yhzhang/home
     twitter: 

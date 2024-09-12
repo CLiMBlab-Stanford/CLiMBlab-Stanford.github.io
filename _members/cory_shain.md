@@ -19,9 +19,9 @@ profile:
     name: Cory Shain, PhD
     position:  Assistant Professor of Linguistics
     align: right
-    image: bio_cory_shain.jpg
+    image: bio_cory.jpg
     email: cory.shain@gmail.com
-    website: https://cory.shain.github.io
+    website: https://coryshain.github.io
     twitter: 
     orcid: 
     address: >
