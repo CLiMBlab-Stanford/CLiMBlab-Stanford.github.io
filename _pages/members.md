@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /people/
+permalink: /members/
 title: people
 page-title: People
 description: Team members of the lab 
