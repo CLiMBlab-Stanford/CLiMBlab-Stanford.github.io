@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+page-title: About
 permalink: /
 subtitle: subtitle:If you feel the need to have something here
 
@@ -35,4 +36,4 @@ Margaret Jacks Hall, Stanford, CA 94305
 <!-- Question for erxiao: Do we need a lab's email with edu ending?
 <i class="fa fa-envelope"></i> *lab's email* -->
 
----
+--- 

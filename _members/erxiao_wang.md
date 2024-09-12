@@ -3,7 +3,8 @@ layout: about
 inline: false
 group: Research Coordinator
 group_rank: 3
-team_collaborator: true
+group_order: 1
+external: false
 
 
 title: Erxiao Wnag

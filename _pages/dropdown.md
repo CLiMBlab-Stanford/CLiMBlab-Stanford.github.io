@@ -2,15 +2,12 @@
 layout: page
 title: submenus
 nav: true
-nav_order: 8
+nav_order: 5
 dropdown: true
-children:
-  - title: publications
-    permalink: /publications/
-  - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+children: 
+    - title: funding
+      permalink: /funding.html
+    - title: divider
+    - title: collaborators
+      permalink: /collaborators.html
 ---
