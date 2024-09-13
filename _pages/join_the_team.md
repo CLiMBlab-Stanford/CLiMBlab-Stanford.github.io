@@ -2,7 +2,7 @@
 layout: page
 title: Join the lab
 page-title: Join
-permalink: /Join.html
+permalink: /join/
 nav: false
 nav_rank: 6
 nav_order: 6

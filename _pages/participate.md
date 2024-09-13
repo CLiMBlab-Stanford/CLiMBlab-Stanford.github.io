@@ -2,7 +2,7 @@
 layout: page
 title: Participate
 page-title: Participate in a study
-permalink: /participates.html
+permalink: /participate/
 nav: false
 nav_rank: 5
 nav_order: 5
