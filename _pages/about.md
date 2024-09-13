@@ -19,23 +19,17 @@ news: false # includes a list of news items
 social: false # includes social icons at the bottom of the page
 ---
 
-## Welcome to the Laboratory of Computation and Lnaguage in the Mind and Brain (CLiMB Lab). 
+## Stanford's Laboratory for Computation & Language in Minds & Brains (CLiMB Lab)
 
-Intro message here in md format (_pages/about.md)
+Welcome to the home page for the CLiMB Lab at Stanford! We are a community of scientists trying to figure out how our brains let us go so efficiently from sensation (e.g., speech, reading) to meaning, and we do this using a combination of neuroimaging, computer modeling, and behavioral experiments. We are a brand new lab and our website is currently under construction, so please check back soon for more.
 
-Maybe put a lab photo on the right
 
 ---
 
-## contact
-Cory Shain, PhD  
-<i class="fa fa-envelope"></i> cory.shain (at) stanford.edu
+Contact us at
 
-Assistant Professor of Linguistics
+<i class="fa fa-envelope"></i> stanfordclimblab (at) gmail.com
 
-Stanford University
-
-Margaret Jacks Hall, Stanford, CA 94305
 <!-- please also add your title and address? -->
 
 <!-- Question for erxiao: Do we need a lab's email with edu ending?
