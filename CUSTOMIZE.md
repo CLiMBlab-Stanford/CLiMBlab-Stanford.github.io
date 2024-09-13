@@ -1,5 +1,20 @@
-# Customize
+# Website maintenance
 
+the name of the file doesn't matter, the attributes inside the file matters
+* homepage: image put in `/img/team`
+* bio update: add files to `/members`, add photo to `/img/team`
+* research project update: add files to `/project`
+* add join the lab section: 
+* add participants recruitment
+* lab news : files in `/_news`
+* publications is unknown now
+* add category: `_config.yml`: line 106 collections, then add a file in `/pages`, make sure title matches
+* add dropdown: add a dropdown file in`/pages`
+* header: edit in `/includes/header.html`, also footer
+
+
+---
+# the general costomization guide (which you mostly don't need)
 Here we will give you some tips on how to customize the website. One important thing to note is that **ALL** the changes you make should be done on the **main** branch of your repository. The `gh-pages` branch is automatically overwritten every time you make a change to the main branch.
 
 ## Project structure
