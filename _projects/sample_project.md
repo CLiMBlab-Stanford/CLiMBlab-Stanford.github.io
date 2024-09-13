@@ -2,7 +2,7 @@
 layout: page
 title: project name
 description: 
-redirect: 
+redirect: climblab-stanford.github.io
 importance: 1
 category: 
 ---

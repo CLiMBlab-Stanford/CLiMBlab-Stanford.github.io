@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Get involved
+title: get involved
 nav: true
 nav_order: 5
 dropdown: true
 children: 
-    - title: Join the lab
-      permalink: /join.html
+    - title: join the lab
+      permalink: /join/
     - title: divider
-    - title: Participate
-      permalink: /participate.html
+    - title: participate
+      permalink: /participate/
 ---

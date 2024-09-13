@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Participate
+title: participate
 page-title: Participate in a study
 permalink: /participate/
 nav: false
