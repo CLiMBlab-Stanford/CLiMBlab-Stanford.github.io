@@ -2,7 +2,7 @@
 layout: page
 title: project name
 description: description of the project
-redirect: climblab-stanford.github.io
+redirect: http://climblab-stanford.github.io
 img: assets/img/team/examples/1.jpg
 
 importance: 1
