@@ -1,6 +1,6 @@
 ---
 layout: page
-title: join
+title: Join the lab
 page-title: Join
 permalink: /Join.html
 nav: false

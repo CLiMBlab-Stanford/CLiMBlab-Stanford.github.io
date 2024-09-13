@@ -19,17 +19,17 @@ news: false # includes a list of news items
 social: false # includes social icons at the bottom of the page
 ---
 
-Wolcome to the Laboratory of Computation and Lnaguage in the Mind and Brain (CLiMB Lab). 
+## Welcome to the Laboratory of Computation and Lnaguage in the Mind and Brain (CLiMB Lab). 
 
 Intro message here in md format (_pages/about.md)
 
-Maybe put a Bio-X or lab's photo on the right
+Maybe put a lab photo on the right
 
 ---
 
 ## contact
 Cory Shain, PhD  
-<i class="fa fa-envelope"></i> cory.shain (at) gmail.com 
+<i class="fa fa-envelope"></i> cory.shain (at) stanford.edu
 
 Assistant Professor of Linguistics
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Participate in a study
-page-title: Participate
+title: Participate
+page-title: Participate in a study
 permalink: /participates.html
 nav: false
 nav_rank: 5
