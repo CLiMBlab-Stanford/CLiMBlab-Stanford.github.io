@@ -115,12 +115,12 @@ collections:
   members:
     output: true
     permalink: /members/:path
-  collaborators:
+  Join:
     output: true
-    permalink: /collaborators/:path
-  funding:
+    permalink: /join/:path
+  Participate:
     output: true
-    permalink: /funding/:path
+    permalink: /participate/:path
     
 
 news_limit: 5
