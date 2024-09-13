@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: project name
 description: description of the project
@@ -7,7 +7,7 @@ img: assets/img/team/examples/1.jpg
 
 importance: 1
 category: category
----
+--- -->
 
 <!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
