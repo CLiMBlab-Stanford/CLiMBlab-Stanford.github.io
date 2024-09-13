@@ -1,7 +1,7 @@
 ---
 layout: page
 title: join the lab
-page-title: Join
+page-title: Join the lab
 permalink: /join/
 nav: false
 nav_rank: 6
@@ -10,10 +10,10 @@ sitetitle: true
 description: Thanks for your interest in our lab...
 
 ---
-## Coming soon!
-
+---
 ## Graduate Student
-
+coming soon
 ## Research Assistant
-
+coming soom
 ## Participate our study
+coming soon
