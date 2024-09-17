@@ -13,14 +13,14 @@ lastname: Zhang
 publications: 
 
 teaser: >
-    Bio Here
+    My research aims to answer how meaning arises in the mind given the inherent complexity in language, cognitive constraints in the processor, and uncertainty in the environment. I leverage toolkits in linguistic theory, Bayesian probability, cognitive neuroscience, and machine learning to establish a coherent theory. I obtained a PhD degree in psycholinguistics from Harvard University with intensive training at MIT.
 
 
 profile:
     name: Yuhan Zhang, PhD
     position: Postdoctoral Researcher
     align: right
-    image: bio_yuhan.jpg
+    image: bio_yuhan.png
     email: yuhancz@stanford.edu
     website: https://sites.google.com/view/yhzhang/home
     twitter: 
@@ -31,7 +31,5 @@ profile:
         Stanford, CA 94305
 
 ---
-
-Bio
 
 ## Short Bio
