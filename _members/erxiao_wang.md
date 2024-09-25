@@ -13,7 +13,9 @@ lastname: Wang
 publications: 
 
 teaser: >
-    A short paragraph about yourself. 
+    I was directed to the road of neurolinguistics by not just learning English as my second language, but also consciously questioning how my brain did it. So, I got my undergrad degree in English and ventured into Neuroscience for my master’s degree. What fascinates me about studying language in the brain is how language reflects higher cognitive processes in so many areas, and how language is complexly computated with ease. In this brand-new lab, I’m interested in understanding this computation process using brain imaging and machine learning tools. 
+
+    When not busy figuring out human language and computer language (coding), I love figuring out cat language, interior design, and new cooking recipes. 
 
 profile:
     name: Erxiao Wang
