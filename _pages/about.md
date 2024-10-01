@@ -28,7 +28,7 @@ Welcome to the home page for the CLiMB Lab at Stanford! We are a community of sc
 
 Contact us at
 
-<i class="fa fa-envelope"></i> stanfordclimblab (at) gmail.com
+<i class="fa fa-envelope"></i><a href= "mailto:climblab@stanford.edu">climblab@stanford.edu</a>
 
 <!-- please also add your title and address? -->
 

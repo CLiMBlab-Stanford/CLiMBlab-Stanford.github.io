@@ -1,34 +1,51 @@
 ---
 layout: about
 inline: false
-group: Principle Investigator
+group: Principal Investigator
 group_rank: 1
 group_order: 1
 external: true
 
 
 title: Cory Shain, PhD
-description: Assistant Professor of Linguistics
+description: Assistant Professor
 lastname: Shain
-publications: 
 
 teaser: >
-    A sentense of intro here
+    I study human language processing and its relationship to brain function.
 
 profile:
-    name: Cory Shain, PhD
-    position:  Assistant Professor of Linguistics
+    name: Cory Shain
+    position:  Assistant Professor
     align: right
     image: bio_cory.jpg
     email: cory.shain@gmail.com
     website: https://coryshain.github.io
-    twitter: 
-    orcid: 
+    twitter: https://twitter.com/coryshain
+    orcid: https://orcid.org/0000-0002-2704-7197
     address: >
-        
+        James H. Clark Center<br />
+        Room W100A <br />
+        318 Campus Drive <br />
+        Stanford, CA 94305
 ---
 
 Bio
 
-## Short Bio
+I'm an Assistant Professor of Linguistics at Stanford University.
+I use computational and experimental methods to study language in the mind and brain,
+particularly (1) the cognitive processes that allow us to understand the things we hear
+and read so quickly, (2) the role played by real-time information processing constraints
+in shaping language learning and comprehension, and (3) the brain basis both of these
+abilities and of closely-related domain-general abilities related to perception, memory,
+problem-solving, and social reasoning. My work  intersects machine learning, cognitive 
+(neuro)science, artificial intelligence, natural language processing, and
+(psycho)linguistics.
+
+Previously, I was a post-doctoral researcher at MIT, supervised by
+[Ev Fedorenko](https://evlab.mit.edu/). I did my PhD in computational linguistics at 
+Ohio State, where I was advised by
+[William Schuler](https://www.asc.ohio-state.edu/schuler.77/) and
+[Micha Elsner](https://u.osu.edu/elsner.14/).
+
 
