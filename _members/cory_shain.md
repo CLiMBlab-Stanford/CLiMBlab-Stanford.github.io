@@ -4,7 +4,7 @@ inline: false
 group: Principal Investigator
 group_rank: 1
 group_order: 1
-external: true
+external: false
 
 
 title: Cory Shain, PhD

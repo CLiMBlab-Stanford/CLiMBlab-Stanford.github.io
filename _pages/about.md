@@ -21,18 +21,16 @@ social: false # includes social icons at the bottom of the page
 
 ## Stanford's Laboratory for Computation & Language in Minds & Brains (CLiMB Lab)
 
-Welcome to the home page for the CLiMB Lab at Stanford! We are a community of scientists trying to figure out how our brains let us go so efficiently from sensation (e.g., speech, reading) to meaning, and we do this using a combination of neuroimaging, computer modeling, and behavioral experiments. We are a brand new lab and our website is currently under construction, so please check back soon for more.
+Welcome to the home page for the CLiMB Lab at Stanford! We are a community of scientists trying to 
+figure out how our brains let us go so efficiently from sensation (e.g., speech, reading) to meaning, 
+and we do this using a combination of neuroimaging, computer modeling, and behavioral experiments. 
+We are a brand-new lab and our website is currently under construction, so please be patient as we
+build the site's content, and don't hesitate to reach out with questions (contact info below).
 
 
 ---
 
-Contact us at
-
-<i class="fa fa-envelope"></i><a href= "mailto:climblab@stanford.edu">climblab@stanford.edu</a>
-
-<!-- please also add your title and address? -->
-
-<!-- Question for erxiao: Do we need a lab's email with edu ending?
-<i class="fa fa-envelope"></i> *lab's email* -->
+Contact us at <i class="fa fa-envelope"></i> 
+<a href= "mailto:climblab@stanford.edu">climblab@stanford.edu</a>
 
 --- 
