@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: brain.jpg
+  image: brain.png
   image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items
