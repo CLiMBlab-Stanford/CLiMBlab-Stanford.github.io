@@ -17,8 +17,13 @@ We are taking graduate students!
 Prospective graduate students interested in joining the lab should first apply and be admitted to an
 appropriate graduate program at Stanford University. The lab does not directly admit students.
 
-The lab is formally housed in the Linguistics Department, but students with aligned research interests
-from any department are welcome. Current Stanford graduate students should 
+The lab is formally housed in the [Department of Linguistics](https://linguistics.stanford.edu/), 
+but students with aligned research interests from any department are welcome. Dr. Shain can be the
+primary advisor for students in the [Linguistics](https://linguistics.stanford.edu/), 
+[Symbolic Systems](https://symsys.stanford.edu/), and 
+[Interdepartmental Neurosciences](https://med.stanford.edu/neurogradprogram.html) programs. Students
+in other departments can also be mentored by Dr. Shain, but they may need a primary
+in their home department. Current Stanford graduate students should
 [contact us](mailto:climblab@stanford.edu) to discuss opportunities.
 
 ## Undergraduate Students

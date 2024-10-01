@@ -3,7 +3,7 @@ layout: page
 permalink: /team.html
 title: people
 page-title: People
-description: Introducing our team here
+description: Meet the CLiMB Lab team
 nav: true
 nav_order: 2
 nav_rank: 2
