@@ -27,6 +27,6 @@ build the site's content, and don't hesitate to reach out with questions (contac
 ---
 
 Contact us at <i class="fa fa-envelope"></i> 
-<a href= "mailto:climblab@stanford.edu">climblab@stanford.edu</a>
+<a href= "mailto:theclimblab@stanford.edu">theclimblab@stanford.edu</a>
 
 --- 

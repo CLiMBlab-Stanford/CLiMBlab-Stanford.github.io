@@ -24,20 +24,20 @@ primary advisor for students in the [Linguistics](https://linguistics.stanford.e
 [Interdepartmental Neurosciences](https://med.stanford.edu/neurogradprogram.html) programs. Students
 in other departments can also be mentored by Dr. Shain, but they may need a primary
 in their home department. Current Stanford graduate students should
-[contact us](mailto:climblab@stanford.edu) to discuss opportunities.
+[contact us](mailto:theclimblab@stanford.edu) to discuss opportunities.
 
 ## Undergraduate Students
 
 The CLiMB Lab strongly supports undergraduate research and welcomes inquiries from Stanford
 undergraduates. Undergraduates typically participate in research by contributing to ongoing projects, 
 but they can also pursue independent research. Interested undergraduates should
-[contact us](mailto:climblab@stanford.edu) to discuss opportunities.
+[contact us](mailto:theclimblab@stanford.edu) to discuss opportunities.
 
 ## Postdoctoral Researchers
 
 The lab is not actively soliciting postdoctoral applications at this time, but inquiries from
 potential postdoc candidates with aligned research interests are welcome.
-[Contact us](mailto:climblab@stanford.edu) to discuss opportunities.
+[Contact us](mailto:theclimblab@stanford.edu) to discuss opportunities.
 
 ## Staff Research Assistants
 The lab is currently fully staffed, but as positions open up we will announce them here.

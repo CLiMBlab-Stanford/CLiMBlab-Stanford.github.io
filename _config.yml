@@ -6,7 +6,7 @@ title: CLiMB Lab # the website title (if blank, full name will be used instead)
 first_name: CLiMB
 middle_name: 
 last_name: Lab
-email: climblab@stanford.edu
+email: theclimblab@stanford.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Internet home of Stanford's Laboratory for Computation & Language in Minds & Brains (CLiMB Lab).
 footer_text: >

@@ -30,8 +30,6 @@ profile:
         Stanford, CA 94305
 ---
 
-Bio
-
 I'm an Assistant Professor of Linguistics at Stanford University.
 I use computational and experimental methods to study language in the mind and brain,
 particularly (1) the cognitive processes that allow us to understand the things we hear
