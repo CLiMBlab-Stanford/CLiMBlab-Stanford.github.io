@@ -13,6 +13,13 @@ description:
 
 ## Participating in CLiMB Lab Studies
 
-We're a brand-new lab and still getting everything set up, but we'll shortly be recruiting participants
-for functional magnetic resonance imaging (fMRI) and behavioral experiments. If you're interested in
-contributing to science as a participant in an experiment, please check back soon for more information.
+We're actively building our recruitment pool for functional magnetic resonance imaging (fMRI) studies
+of language and cognition in the brain. fMRI is a safe, radiation-free neuroimaging technique that
+has yielded foundational insights about brain structure and function. Participants lie in an fMRI
+scanner and perform tasks targeting speech comprehension, reading, speaking, memory, problem-solving,
+social reasoning, and related functions.
+
+If you would like to join our participant pool, simply fill out 
+[this form](https://redcap.stanford.edu/surveys/?s=PP38NEPP7P7LYFEW) (you can remove yourself
+at any time).
+
