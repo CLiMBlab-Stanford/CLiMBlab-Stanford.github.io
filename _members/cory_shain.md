@@ -20,7 +20,7 @@ profile:
     align: right
     image: bio_cory.jpg
     email: cory.shain@gmail.com
-    website: https://coryshain.github.io
+    cv: /assets/pdf/SHAIN_CV.pdf
     twitter: https://twitter.com/coryshain
     orcid: https://orcid.org/0000-0002-2704-7197
     address: >
