@@ -15,7 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-## Stanford's Laboratory for Computation & Language in Minds & Brains (CLiMB Lab)
+# CLiMB Lab @ Stanford
+## Laboratory for Computation & Language in Minds & Brains
 
 Welcome to the online home of the CLiMB Lab at Stanford! We are a community of scientists trying to 
 figure out how our brains let us go so efficiently from sensation (e.g., speech, reading) to meaning, 
