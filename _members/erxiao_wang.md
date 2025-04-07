@@ -2,13 +2,13 @@
 layout: about
 inline: false
 group: Research Coordinator
-group_rank: 3
+group_rank: 4
 group_order: 1
 external: false
 
 
 title: Erxiao Wnag
-description: Profile of Erxiao Wang, Research Coordinator.
+description: Research Coordinator
 lastname: Wang
 publications: 
 
