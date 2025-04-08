@@ -4,7 +4,7 @@ inline: false
 group: PhD Student
 group_rank: 3
 group_order: 1
-external: true
+external: false
 
 
 title: Josh Rozner
