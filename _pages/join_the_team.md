@@ -17,7 +17,7 @@ If you're interested in the lab, consider joining our
 [Slack](https://climblab.slack.com/) and coming to our 
 hybrid lab meetings! Current meeting details are below:
 
-**Time:** Fridays 11am-12:20pm PST)\
+**Time:** Thursdays 10:30am-11:50am PST\
 **Location:** Margaret Jacks Hall room 048\
 [Zoom](https://stanford.zoom.us/j/98560434166?pwd=ITK4515EKiL4wvi0Hy5Xr8OaasEwuX.1)\
 [Schedule](https://docs.google.com/spreadsheets/d/1NC-65XCL2pyo_1xAkNYm-IOm_Fq3E36lI6ZCrMmS5FY/edit?usp=sharing)\
