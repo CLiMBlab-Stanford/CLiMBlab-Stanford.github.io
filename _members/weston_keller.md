@@ -3,7 +3,7 @@ layout: about
 inline: false
 group: Lab Members
 group_rank: 2
-group_order: 5
+group_order: 4
 external: true
 
 
@@ -21,7 +21,7 @@ profile:
     name: Weston Keller
     position: Undergraduate Student
     align: right
-    image: 
+    image: bio_westonkeller.png
     email: 
     website: https://www.wkeller.dev/
     twitter: 

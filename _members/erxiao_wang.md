@@ -3,7 +3,7 @@ layout: about
 inline: false
 group: Lab Members
 group_rank: 2
-group_order: 4
+group_order: 3
 external: false
 
 
