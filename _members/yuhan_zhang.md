@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Postdoc
+group: Lab Members
 group_rank: 2
 group_order: 1
 external: true

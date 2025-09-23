@@ -1,9 +1,9 @@
 ---
 layout: about
 inline: false
-group: Research Coordinator
-group_rank: 4
-group_order: 1
+group: Lab Members
+group_rank: 2
+group_order: 3
 external: false
 
 
