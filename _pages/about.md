@@ -24,8 +24,8 @@ meanings so effortlessly, and how do they learn this ability from experience? Th
 immense challenges because understanding language requires understanding the different processes that collectively
 constrain it: learning, computation, and brain function. We therefore take an interdisciplinary approach that 
 reflects this scope, recruiting trainees from many academic backgrounds (linguistics, computer science, 
-psychology, cognitive science, and neuroscience) and building a shared lab culture where cross-disciplinary 
-training and integrative research are the norm: linguists run neuroimaging experiments, computer scientists 
+psychology, cognitive science, and neuroscience) and building a culture where cross-disciplinary training
+and integrative research are the norm: linguists run neuroimaging experiments, computer scientists 
 run human behavioral experiments, and neuroscientists study the functional organization of artificial intelligence 
 (AI) models.
 
