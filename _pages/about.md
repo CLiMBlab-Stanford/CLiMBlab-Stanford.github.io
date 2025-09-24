@@ -26,7 +26,8 @@ constrain it: learning, computation, and brain function. We therefore take an in
 reflects this scope, recruiting trainees from many academic backgrounds (linguistics, computer science, 
 psychology, cognitive science, and neuroscience) and building a shared lab culture where cross-disciplinary 
 training and integrative research are the norm: linguists learn about neuroimaging, computer scientists 
-run human behavioral experiments, and psychologists study artificial intelligence (AI) grammar learning.
+run human behavioral experiments, and neuroscientists study the functional organization of artificial intelligence 
+(AI) models.
 
 
 ---
