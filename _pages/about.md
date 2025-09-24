@@ -25,7 +25,7 @@ immense challenges because understanding language requires understanding the dif
 constrain it: learning, computation, and brain function. We therefore take an interdisciplinary approach that 
 reflects this scope, recruiting trainees from many academic backgrounds (linguistics, computer science, 
 psychology, cognitive science, and neuroscience) and building a shared lab culture where cross-disciplinary 
-training and integrative research are the norm: linguists learn about neuroimaging, computer scientists 
+training and integrative research are the norm: linguists run neuroimaging experiments, computer scientists 
 run human behavioral experiments, and neuroscientists study the functional organization of artificial intelligence 
 (AI) models.
 
