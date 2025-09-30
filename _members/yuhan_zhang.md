@@ -23,12 +23,6 @@ profile:
     image: bio_yuhan.png
     email: yuhancz@stanford.edu
     website: https://sites.google.com/view/yhzhang/home
-    twitter: 
-    orcid: 
-    address: >
-        James H. Clark Center<br />
-        318 Campus Drive <br />
-        Stanford, CA 94305
 
 ---
 

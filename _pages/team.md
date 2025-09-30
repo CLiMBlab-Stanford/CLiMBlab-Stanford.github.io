@@ -55,7 +55,7 @@ nav_rank: 2
                     {% endif %}
                     {% if member.profile.address %}
                     <p class="card-text">
-                        <small class="test-muted"><i class="fas fa-thumbtack"></i> {{ member.profile.address | replace: '<br />', ', ' }}</small>
+                        <small class="test-muted"><i class="fas fa-thumbtack"></i> </small>
                     </p>
                     {% endif %}
                 </div>

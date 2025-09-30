@@ -23,12 +23,7 @@ profile:
     image: bio_erxiao.jpg
     role: Research Coordinator
     email: exw@stanford.edu
-    github: 
-    orcid: 
-    address: >
-        James H. Clark Center<br />
-        318 Campus Drive <br />
-        Stanford, CA 94305
+
 ---
 
 ## Short Bio
