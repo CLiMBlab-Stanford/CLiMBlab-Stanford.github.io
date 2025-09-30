@@ -53,7 +53,7 @@ nav_rank: 2
                     {% if member.profile.website %}
                         <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
                     {% endif %}
-                    {% if member.profile.address %}
+
                     {% if member.profile.address %}
                     <p class="card-text">
                         <small class="test-muted"><i class="fas fa-thumbtack"></i> {{ member.profile.address | replace: '<br />', ', ' }}</small>
