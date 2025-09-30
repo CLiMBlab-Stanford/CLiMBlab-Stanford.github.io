@@ -13,7 +13,7 @@ lastname: Roll
 publications: 
 
 teaser: >
-   Nathan Roll is a PhD student affiliated with the Department of Linguistics and the NLP Group at Stanford University. His research investigates the shared language processing mechanisms across computational and biological systems, with a focus on speech perception. He applies this work to challenges in healthcare, from modeling human language deficits using LLMs to identifying underreported cases of domestic violence in Stanford Healthcare patients.
+   I'm a PhD student affiliated with the Department of Linguistics and the NLP Group at Stanford University. My research investigates the shared language processing mechanisms across computational and biological systems, with a focus on speech perception. I apply this work to challenges in healthcare, from modeling human language deficits using LLMs to identifying underreported cases of domestic violence in Stanford Healthcare patients.
 
 profile:
     name: Nathan Roll
