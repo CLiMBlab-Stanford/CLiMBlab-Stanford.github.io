@@ -21,7 +21,7 @@ profile:
     name: Advay Aravind
     position: Undergraduate Student
     align: right
-    image: bio_advay.png
+    image: bio_advay.jpg
     email: 
     website: 
     twitter: 

@@ -21,6 +21,6 @@ profile:
     name: Stephanie Cho
     position: Undergraduate Student
     align: right
-    image: bio_stephanie.png
+    image: bio_stephanie.jpg
     email: sgcxliv@stanford.edu 
 
