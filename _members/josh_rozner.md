@@ -1,16 +1,16 @@
 ---
 layout: about
 inline: false
-group: Lab Members
-group_rank: 2
-group_order: 2
+group: Graduate Student
+group_rank: 3
+group_order: 1
 external: false
 
 
 title: Josh Rozner
 description: PhD Student
 lastname: Rozner
-publications: 
+
 
 teaser: >
    My present research focuses on compositionality and productive generalization in language, including language acquisition.
@@ -23,13 +23,8 @@ profile:
     align: right
     image: bio_josh_avtar.jpeg
     email: rozner@stanford.edu
-    website: 
-    twitter: 
-    orcid: 
-    address: >
-        James H. Clark Center<br />
-        318 Campus Drive <br />
-        Stanford, CA 94305
+
+
 
 ---
 

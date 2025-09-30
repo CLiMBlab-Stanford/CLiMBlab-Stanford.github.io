@@ -1,16 +1,16 @@
 ---
 layout: about
 inline: false
-group: Lab Members
-group_rank: 2
-group_order: 3
+group: Research Staff
+group_rank: 3
+group_order: 1
 external: false
 
 
 title: Erxiao Wnag
 description: Research Coordinator
 lastname: Wang
-publications: 
+
 
 teaser: >
  Erxiao Wang graduated from Teachers College, Columbia University in 2024 where she studied cognitive neuroscience. Her research interest centered on speech and language processing in human brain and how to apply brain imaging techniques in the field of cogntive neuroscience. She hopes to explore not only human but also machine processing of langauge in the future research.

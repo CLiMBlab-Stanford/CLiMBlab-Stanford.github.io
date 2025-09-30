@@ -1,9 +1,9 @@
 ---
 layout: about
 inline: false
-group: Lab Members
-group_rank: 2
-group_order: 4
+group: Undergraduate Student
+group_rank: 4
+group_order: 1
 external: true
 
 
@@ -26,10 +26,6 @@ profile:
     website: https://www.wkeller.dev/
     twitter: 
     orcid: 
-    address: >
-        James H. Clark Center<br />
-        318 Campus Drive <br />
-        Stanford, CA 94305
 
 ---
 
