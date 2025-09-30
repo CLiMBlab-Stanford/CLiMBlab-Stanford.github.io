@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Lab Members
+group: Postdoctoral Researcher
 group_rank: 2
 group_order: 1
 external: true

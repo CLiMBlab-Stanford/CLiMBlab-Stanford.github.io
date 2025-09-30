@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Undergraduate Student
-group_rank: 4
+group_rank: 5
 group_order: 2
 external: false
 
