@@ -13,7 +13,7 @@ lastname: Wang
 
 
 teaser: >
- Erxiao Wang graduated from Teachers College, Columbia University in 2024 where she studied cognitive neuroscience. Her research interest centered on speech and language processing in human brain and how to apply brain imaging techniques in the field of cogntive neuroscience. She hopes to explore not only human but also machine processing of langauge in the future research.
+ My research interest centered on speech and language processing in human brain and how to apply brain imaging techniques in the field of cogntive neuroscience. She hopes to explore not only human but also machine processing of langauge in the future research.
     
 
 profile:
