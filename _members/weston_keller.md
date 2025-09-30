@@ -24,8 +24,7 @@ profile:
     image: bio_westonkeller.png
     email: 
     website: https://www.wkeller.dev/
-    twitter: 
-    orcid: 
+
 
 ---
 

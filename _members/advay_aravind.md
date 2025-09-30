@@ -4,7 +4,8 @@ inline: false
 group: Undergraduate Student
 group_rank: 5
 group_order: 3
-external: false
+external: true
+
 
 
 title: Advay Aravind
@@ -22,10 +23,7 @@ profile:
     position: Undergraduate Student
     align: right
     image: bio_advay.jpg
-    email: 
-    website: 
-    twitter: 
-    orcid: 
+
 
 
 ---
