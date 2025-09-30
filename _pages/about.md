@@ -18,9 +18,16 @@ social: true # includes social icons at the bottom of the page
 # CLiMB Lab @ Stanford
 ## Laboratory for Computation & Language in Minds & Brains
 
-Welcome to the online home of the CLiMB Lab at Stanford! We are a community of scientists trying to 
-figure out how our brains let us go so efficiently from sensation (e.g., speech, reading) to meaning, 
-and we do this using a combination of neuroimaging, computer modeling, and behavioral experiments. 
+Welcome to the online home of the CLiMB Lab at Stanford! 
+The grand goal of the lab is to solve human language comprehension. How do our brains go from sounds to
+meanings so effortlessly, and how do they learn this ability from experience? This simple goal presents
+immense challenges because understanding language requires understanding the different processes that collectively
+constrain it: learning, computation, and brain function. We therefore take an interdisciplinary approach that 
+reflects this scope, recruiting trainees from many academic backgrounds (linguistics, computer science, 
+psychology, cognitive science, and neuroscience) and building a culture where cross-disciplinary training
+and integrative research are the norm: linguists run neuroimaging experiments, computer scientists 
+run human behavioral experiments, and neuroscientists study the functional organization of artificial intelligence 
+(AI) models.
 
 
 ---
