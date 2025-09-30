@@ -24,3 +24,4 @@ profile:
     image: bio_stephanie.jpg
     email: sgcxliv@stanford.edu 
 
+---
