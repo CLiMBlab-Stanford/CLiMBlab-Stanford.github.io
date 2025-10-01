@@ -1,19 +1,19 @@
 ---
 layout: about
 inline: false
-group: Lab Members
-group_rank: 2
-group_order: 3
+group: Research Staff
+group_rank: 4
+group_order: 1
 external: false
 
 
 title: Erxiao Wnag
 description: Research Coordinator
 lastname: Wang
-publications: 
+
 
 teaser: >
- Erxiao Wang graduated from Teachers College, Columbia University in 2024 where she studied cognitive neuroscience. Her research interest centered on speech and language processing in human brain and how to apply brain imaging techniques in the field of cogntive neuroscience. She hopes to explore not only human but also machine processing of langauge in the future research.
+ My research interest centered on speech and language processing in human brain and how to apply brain imaging techniques in the field of cogntive neuroscience. She hopes to explore not only human but also machine processing of langauge in the future research.
     
 
 profile:
@@ -23,12 +23,7 @@ profile:
     image: bio_erxiao.jpg
     role: Research Coordinator
     email: exw@stanford.edu
-    github: 
-    orcid: 
-    address: >
-        James H. Clark Center<br />
-        318 Campus Drive <br />
-        Stanford, CA 94305
+
 ---
 
 ## Short Bio

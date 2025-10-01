@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Lab Members
+group: Postdoctoral Researcher
 group_rank: 2
 group_order: 1
 external: true
@@ -23,12 +23,6 @@ profile:
     image: bio_yuhan.png
     email: yuhancz@stanford.edu
     website: https://sites.google.com/view/yhzhang/home
-    twitter: 
-    orcid: 
-    address: >
-        James H. Clark Center<br />
-        318 Campus Drive <br />
-        Stanford, CA 94305
 
 ---
 
