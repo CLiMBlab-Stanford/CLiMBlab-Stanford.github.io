@@ -5,6 +5,80 @@
 
 # Preprints
 
+# todo: what is section used for?; options - preprints, articles, papers
+# comments:
+# - use 'article' rather than 'misc' (e.g. for arxiv)
+# - add bibtex_show, abbr, section, month, journal
+#   - todo - add linter complaints if not filled
+
+# 3/25/2026
+@article{rozner2026perturbationsimpleefficientadversarial,
+      author={Joshua Rozner and Cory Shain},
+      title={Perturbation: A simple and efficient adversarial tracer for representation learning in language models},
+      year={2026},
+      month = {mar},
+      journal = {arXiv},
+      eprint={2603.23821},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      html={https://arxiv.org/abs/2603.23821},
+      bibtex_show = {true},
+      abbr = {arXiv},
+      section = {preprints},
+}
+
+# 11/25/2025
+@article{roll2025textaphasiabatterytab,
+      title={The Text Aphasia Battery (TAB): A Clinically-Grounded Benchmark for Aphasia-Like Deficits in Language Models},
+      author={Nathan Roll and Jill Kries and Flora Jin and Catherine Wang and Ann Marie Finley and Meghan Sumner and Cory Shain and Laura Gwilliams},
+      year={2025},
+      month = {nov},
+      eprint={2511.20507},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2511.20507},
+      bibtex_show = {true},
+      abbr = {arXiv},
+      section = {preprints},
+      journal = {arXiv},
+}
+
+# 11/18/2025
+@article{zhang2025gradedstrengthcomparativeillusions,
+    title={Graded strength of comparative illusions is explained by Bayesian inference},
+    author={Yuhan Zhang and Erxiao Wang and Cory Shain},
+    year={2025},
+    eprint={2511.14642},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2511.14642},
+    abbr = {arXiv},
+    section = {preprints},
+    bibtex_show = {true},
+    journal = {arXiv},
+    month = {nov},
+}
+
+# 06/02/2025
+@inproceedings{rozner-etal-2025-babylms,
+    title = "{B}aby{LM}{'}s First Constructions: Causal interventions provide a signal of learning",
+    author = "Rozner, Joshua  and Weissweiler, Leonie  and Shain, Cory",
+    editor = "Christodoulopoulos, Christos  and Chakraborty, Tanmoy  and Rose, Carolyn  and Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    html = "https://aclanthology.org/2025.emnlp-main.113/",
+    doi = "10.18653/v1/2025.emnlp-main.113",
+    pages = "2237--2249",
+    ISBN = "979-8-89176-332-6",
+    abstract = "Construction grammar posits that language learners acquire constructions (form-meaning pairings) from the statistics of their environment. Recent work supports this hypothesis by showing sensitivity to constructions in pretrained language models (PLMs), including one recent study (Rozner et al., 2025) demonstrating that constructions shape RoBERTa{'}s output distribution. However, models under study have generally been trained on developmentally implausible amounts of data, casting doubt on their relevance to human language learning. Here we use Rozner et al.{'}s methods to evaluate construction learning in masked language models from the 2024 BabyLM Challenge.Our results show that even when trained on developmentally plausible quantities of data, models learn diverse constructions, even hard cases that are superficially indistinguishable.We further find correlational evidence that constructional performance may be functionally relevant: models that better represent constructions perform better on the BabyLM benchmarks.",
+    abbr = {EMNLP},
+    bibtex_show = {true},
+    section = {articles},
+}
+
 @article{shainfedorenko25,
   author = {Shain, Cory and Fedorenko, Evelina},
   title = {A language network in the individualized functional connectomes of over 1,000 human brains doing arbitrary tasks},
@@ -17,17 +91,23 @@
   bibtex_show = {true}
 }
 
-@article{rozneretal25,
-  author = {Rozner, Joshua and Weissweiler, Leonie and Mahowald, Kyle and Shain, Cory},
-  title = {Constructions Are Revealed in Word Distributions},
-  year = {2025},
-  journal = {arXiv},
-  doi = {10.48550/arXiv.2503.06048},
-  url = {http://arxiv.org/abs/2503.06048},
-  pdf = {http://arxiv.org/pdf/2503.06048},
-  abbr = {arXiv},
-  section = {preprints},
-  bibtex_show = {true}
+
+@inproceedings{rozner-etal-2025-constructions,
+    title = "Constructions are Revealed in Word Distributions",
+    author = "Rozner, Joshua  and Weissweiler, Leonie  and Mahowald, Kyle  and Shain, Cory",
+    editor = "Christodoulopoulos, Christos  and Chakraborty, Tanmoy  and Rose, Carolyn  and Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    html = "https://aclanthology.org/2025.emnlp-main.108/",
+    doi = "10.18653/v1/2025.emnlp-main.108",
+    pages = "2116--2138",
+    ISBN = "979-8-89176-332-6",
+    abstract = "Construction grammar posits that constructions, or form-meaning pairings, are acquired through experience with language (the distributional learning hypothesis).But how much information about constructions does this distribution actually contain? Corpus-based analyses provide some answers, but text alone cannot answer counterfactual questions about what caused a particular word to occur.This requires computable models of the distribution over strings{---}namely, pretrained language models (PLMs).Here, we treat a RoBERTa model as a proxy for this distribution and hypothesize that constructions will be revealed within it as patterns of statistical affinity.We support this hypothesis experimentally: many constructions are robustly distinguished, including (i) hard cases where semantically distinct constructions are superficially similar, as well as (ii) schematic constructions, whose ``slots'' can be filled by abstract word classes.Despite this success, we also provide qualitative evidence that statistical affinity alone may be insufficient to identify all constructions from text.Thus, statistical affinity is likely an important, but partial, signal available to learners.",
+    abbr = {EMNLP},
+    bibtex_show = {true}
 }
 
 
