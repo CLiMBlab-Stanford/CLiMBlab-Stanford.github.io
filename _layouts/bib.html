@@ -89,7 +89,14 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
-        
+
+          <!-- Award -->
+          {%- if entry.award %}
+          <div class="award">
+            <i class="fas fa-award"></i>&nbsp;{{ entry.award }}
+          </div>
+          {%- endif %}
+
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
