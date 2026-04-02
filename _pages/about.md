@@ -21,8 +21,8 @@ social: true # includes social icons at the bottom of the page
 Welcome to the online home of the CLiMB Lab at Stanford! 
 The grand goal of the lab is to solve human language comprehension. How do our brains go from sensation to
 meaning so effortlessly, and how do they learn this ability from experience? This simple goal presents
-immense challenges because understanding language requires understanding the different processes that collectively
-constrain it: learning, computation, and brain function. We therefore take an interdisciplinary approach that 
+immense challenges because understanding language requires understanding the different processes that shape 
+it: learning, computation, and brain function. We therefore take an interdisciplinary approach that 
 reflects this scope, recruiting trainees from many academic backgrounds (linguistics, computer science, 
 psychology, cognitive science, and neuroscience) and building a culture where cross-disciplinary training
 and integrative research are the norm: linguists run neuroimaging experiments, computer scientists 
