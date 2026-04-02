@@ -17,11 +17,11 @@ If you're interested in the lab, consider joining our
 [Slack](https://climblab.slack.com/) and coming to our 
 hybrid lab meetings! Current meeting details are below:
 
-**Time:** Thursdays 10:30am-11:50am PST\
+**Time:** Fridays 12:00pm-1:20pm PST\
 **Location:** Margaret Jacks Hall room 048\
 [Zoom](https://stanford.zoom.us/j/98560434166?pwd=ITK4515EKiL4wvi0Hy5Xr8OaasEwuX.1)\
 [Schedule](https://docs.google.com/spreadsheets/d/1NC-65XCL2pyo_1xAkNYm-IOm_Fq3E36lI6ZCrMmS5FY/edit?usp=sharing)\
-**No meetings during academic breaks/holidays**
+**No meetings during academic breaks/holidays, see schedule for details about meeting dates**
 
 
 ## Graduate Students
@@ -44,7 +44,7 @@ in their home department. Current Stanford graduate students should
 The CLiMB Lab strongly supports undergraduate research and welcomes involvement by Stanford
 undergraduates. Undergraduates typically participate in research by contributing to ongoing projects, and 
 they are typically expected to have at least a quarter's worth of active participation either in lab meetings
-or in a course taught by Dr. Shain before taking on research responsibilities. If you are a Stanford undergrad
+or in a course taught by Cory before taking on research responsibilities. If you are a Stanford undergrad
 interested in joining the lab, see [lab meetings](#lab-meetings) above for details.
 
 ## Postdoctoral Researchers
