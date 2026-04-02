@@ -7,7 +7,7 @@ group_order: 1
 external: false
 
 
-title: Cory Shain, PhD
+title: Cory Shain
 description: Assistant Professor
 lastname: Shain
 
@@ -30,17 +30,10 @@ profile:
         Stanford, CA 94305
 ---
 
-I'm an Assistant Professor of Linguistics at Stanford University.
-I use computational and experimental methods to study language in the mind and brain,
-particularly (1) the cognitive processes that allow us to understand the things we hear
-and read so quickly, (2) the role played by real-time information processing constraints
-in shaping language learning and comprehension, and (3) the brain basis both of these
-abilities and of closely-related domain-general abilities related to perception, memory,
-problem-solving, and social reasoning. My work  intersects machine learning, cognitive 
-(neuro)science, artificial intelligence, natural language processing, and
-(psycho)linguistics.
+I'm an Assistant Professor of Linguistics at Stanford University, where I teach and
+run the CLiMB Lab.
 
-Previously, I was a post-doctoral researcher at MIT, supervised by
+Previously, I was a postdoc at MIT, supervised by
 [Ev Fedorenko](https://evlab.mit.edu/). I did my PhD in computational linguistics at 
 Ohio State, where I was advised by
 [William Schuler](https://www.asc.ohio-state.edu/schuler.77/) and

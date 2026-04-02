@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Undergraduate Student
+group: Undergraduate Students
 group_rank: 5
 group_order: 1
 external: true

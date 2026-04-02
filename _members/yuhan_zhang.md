@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Postdoctoral Researcher
+group: Postdocs
 group_rank: 2
 group_order: 1
 external: true
