@@ -186,10 +186,11 @@ defaults:
       path: "assets/**/*.*"
     values:
       sitemap: false
-  - scope:
-      path: ""
-    values:
-      image: /assets/img/icon.png # Default open graph image
+# this asset does not exist; todo - consider uncommenting if one is added
+#  - scope:
+#      path: ""
+#    values:
+#      image: /assets/img/icon.png # Default open graph image
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
 # -----------------------------------------------------------------------------
