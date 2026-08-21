@@ -1,52 +1,98 @@
 name: Check for broken links
 
+# Link checking is split into two parts
+#
+#   * Internal links are checked against the *built* site (no network access).
+#     These need to be fixed.
+#
+#   * External links are checked separately with a 14 day cache.
+#
+
 on:
-  push:
-    branches:
-      - master
-      - main
-    paths:
-      - "assets/**"
-      - "**.html"
-      - "**.js"
-      - "**.liquid"
-      - "**/*.md"
-      - "**.yml"
-      - "!.github/workflows/axe.yml"
-      - "!.github/workflows/deploy-docker-tag.yml"
-      - "!.github/workflows/deploy-image.yml"
-      - "!.github/workflows/docker-slim.yml"
-      - "!.github/workflows/lighthouse-badger.yml"
-      - "!.github/workflows/prettier.yml"
-      - "!lighthouse_results/**"
   pull_request:
     branches:
       - master
       - main
-    paths:
-      - "assets/**"
-      - "**.html"
-      - "**.js"
-      - "**.liquid"
-      - "**/*.md"
-      - "**.yml"
-      - "!.github/workflows/axe.yml"
-      - "!.github/workflows/deploy-docker-tag.yml"
-      - "!.github/workflows/deploy-image.yml"
-      - "!.github/workflows/docker-slim.yml"
-      - "!.github/workflows/lighthouse-badger.yml"
-      - "!.github/workflows/prettier.yml"
-      - "!lighthouse_results/**"
+  push:
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: broken-links-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  # Shared by both jobs.
+  # `--root-dir` is what makes root-relative links such as
+  # `/publications/` resolve inside `_site` rather than against the filesystem
+  # root; `--fallback-extensions html` is what lets extensionless permalinks
+  # such as `/members/cory_shain` find `members/cory_shain.html`.
+  LYCHEE_COMMON: >-
+    --root-dir "${{ github.workspace }}/_site"
+    --fallback-extensions html
+    --no-progress
 
 jobs:
-  link-checker:
+  internal:
+    name: Internal links
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # `uses: ./...` needs the repo on disk, so checkout cannot move into the
+      # composite action -- everything after it can.
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
 
-      - name: Link Checker 🔗
-        uses: lycheeverse/lychee-action@v1.9.0
+      - name: Build site 🔧
+        uses: ./.github/actions/build-site
+
+      - name: Check internal links 🔗
+        uses: lycheeverse/lychee-action@v2
         with:
           fail: true
-          # removed md files that include liquid tags
-          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html'
+          args: ${{ env.LYCHEE_COMMON }} --offline '_site/**/*.html'
+
+  external:
+    name: External links
+    runs-on: ubuntu-latest
+    steps:
+      # `uses: ./...` needs the repo on disk, so checkout cannot move into the
+      # composite action -- everything after it can.
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+
+      - name: Build site 🔧
+        uses: ./.github/actions/build-site
+
+      # lychee records every URL it fetches in `.lycheecache`.
+      # This causes the file to be carried forward run to run.
+      # Most links are skipped instead of re-fetched.
+      # If key is always new so `restore-keys` always falls back to the most
+      # recent cache and a new one is saved at the end of the job.
+      - name: Restore external link cache 💾
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: lychee-cache-${{ github.run_id }}
+          restore-keys: lychee-cache-
+
+      - name: Check external links 🌐
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: true
+          args: >-
+            ${{ env.LYCHEE_COMMON }}
+            --scheme http --scheme https
+            --cache --max-cache-age 14d
+            --cache-exclude-status '429,500..=599'
+            --max-concurrency 8
+            --timeout 20
+            --max-retries 3
+            --retry-wait-time 5
+            --accept '200..=299,403,429'
+            --user-agent 'Mozilla/5.0 (compatible; lychee link checker)'
+            '_site/**/*.html'
