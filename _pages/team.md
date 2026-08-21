@@ -42,13 +42,13 @@ nav_rank: 2
                         <a href="{{ member.profile.cv }}" class="card-link" target="_blank"><i class="fab fa-cv"></i>CV</a>
                     {% endif %}
                     {% if member.profile.orcid %}
-                        <a href="https://orcid.org/{{ member.profile.orcid }}" class="card-link" target="_blank"><i class="fab fa-orcid"></i></a>
+                        <a href="{{ member.profile.orcid }}" class="card-link" target="_blank"><i class="fab fa-orcid"></i></a>
                     {% endif %}
                     {% if member.profile.twitter %}
-                        <a href="https://twitter.com/{{ member.profile.twitter }}" class="card-link" target="_blank"><i class="fab fa-twitter"></i></a>
+                        <a href="{{ member.profile.twitter }}" class="card-link" target="_blank"><i class="fab fa-twitter"></i></a>
                     {% endif %}
                     {% if member.profile.github %}
-                        <a href="https://github.com/{{ member.profile.github }}" class="card-link" target="_blank"><i class="fab fa-github"></i></a>
+                        <a href="{{ member.profile.github }}" class="card-link" target="_blank"><i class="fab fa-github"></i></a>
                     {% endif %}
                     {% if member.profile.website %}
                         <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
