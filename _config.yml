@@ -148,8 +148,14 @@ kramdown:
 include: ['_pages']
 exclude:
   - bin
+  - CONTRIBUTING.md
+  - CUSTOMIZE.md
+  - Dockerfile
   - Gemfile
   - Gemfile.lock
+  - LICENSE
+  - purgecss.config.js
+  - README.md
   - vendor
 keep_files:
   - CNAME
