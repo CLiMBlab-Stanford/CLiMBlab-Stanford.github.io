@@ -23,9 +23,10 @@ runs:
         export JEKYLL_ENV=production
         bundle exec jekyll build
 
+    # Installed from package-lock.json
     - name: Purge unused CSS 🧹
       if: inputs.purgecss == 'true'
       shell: bash
       run: |
-        npm install -g purgecss
-        purgecss -c purgecss.config.js
+        npm ci
+        npx purgecss -c purgecss.config.js
