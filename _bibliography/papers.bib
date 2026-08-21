@@ -1,8 +1,13 @@
 # Publications
 
-# Don't forget to add month, year, and abbr fields
-#   - month, year used for sorting
+# Field explanations and comments
+#   - the article type (article, misc, etc) matters; different choices will render differently
 #   - abbr field will render where paper was published
+#   - bibtex_show will display a clickable BIB
+#   - journal: will be included in bibtex
+#   - month, year used for sorting and will also be rendered
+#   - url (will render as clickable link HTML, will be included in bibtex)
+#       - it is possible (though not advisable) to pass separate values for url (bibtex) and html (clickable link)
 # Note that section field is currently not used anywhere (though could be used to sub-organize this page)
 
 @ARTICLE{Cho2026-rd,
@@ -41,12 +46,12 @@
     year={2026},
     month = jul,
     publisher={OSF},
-    html={https://osf.io/preprints/psyarxiv/kt3sw_v1},
+    url={https://osf.io/preprints/psyarxiv/kt3sw_v1},
     bibtex_show = {true}
 }
 
 
-% todo: update html -> abstract fields after published
+% todo: update url -> abstract fields after published
 @inproceedings{rozner2026perturbationsimpleefficientadversarial,
     title={Perturbation: A simple and efficient adversarial tracer for representation learning in language models},
     author={Joshua Rozner and Cory Shain},
@@ -56,7 +61,7 @@
     month = oct,
     address = "Budapest, Hungary",
     publisher = "Association for Computational Linguistics",
-    html={https://arxiv.org/abs/2603.23821},
+    url={https://arxiv.org/abs/2603.23821},
     doi = "",
     pages = "",
     ISBN = "",
@@ -142,7 +147,7 @@
     year = "2025",
     address = "Suzhou, China",
     publisher = "Association for Computational Linguistics",
-    html = "https://aclanthology.org/2025.emnlp-main.113/",
+    url = "https://aclanthology.org/2025.emnlp-main.113/",
     doi = "10.18653/v1/2025.emnlp-main.113",
     pages = "2237--2249",
     ISBN = "979-8-89176-332-6",
@@ -162,7 +167,7 @@
     year = "2025",
     address = "Suzhou, China",
     publisher = "Association for Computational Linguistics",
-    html = "https://aclanthology.org/2025.emnlp-main.108/",
+    url = "https://aclanthology.org/2025.emnlp-main.108/",
     doi = "10.18653/v1/2025.emnlp-main.108",
     pages = "2116--2138",
     ISBN = "979-8-89176-332-6",
@@ -180,6 +185,7 @@
     year = {2023},
     journal = {bioRxiv},
     pdf = {https://www.biorxiv.org/content/10.1101/2023.03.23.533424v1},
+    url = {https://www.biorxiv.org/content/10.1101/2023.03.23.533424v1},
     abbr = {bioRxiv},
     section = {preprints},
     bibtex_show = {true}
@@ -212,7 +218,8 @@
     abbr = {JoCN},
     section = {articles},
     selected = {true},
-    bibtex_show = {true}
+    bibtex_show = {true},
+    url = {https://pubmed.ncbi.nlm.nih.gov/38683732/},
 }
 
 
@@ -333,7 +340,7 @@
     booktitle = {Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing},
     year = {2021},
     pdf = {shain_21.pdf},
-    slides = {shain_21_slides.pdf},
+    slides_missing = {shain_21_slides.pdf},
     code = {https://github.com/coryshain/cdr},
     data = {https://osf.io/hb5w2/},
     supp = {https://osf.io/z89vn/},
@@ -385,7 +392,7 @@
     pages = {195--214},
     doi = {10.18653/v1/2020.conll-1.15},
     pdf = {shain_elsner_20.pdf},
-    slides = {shain_elsner_20_slides.pdf},
+    slides_missing = {shain_elsner_20_slides.pdf},
     code = {https://github.com/coryshain/dnnseg},
     recording = {https://slideslive.com/38939477/acquiring-language-from-speech-by-learning-to-remember-and-predict?fbclid=IwAR3AtIO57f7EyfTt2ObQycp0bu5EPnP2l99OBEydXIAZXLaTzMEIvfJJ8Lk},
     best_paper = {true},
@@ -438,7 +445,7 @@
     year = {2019},
     pages = {69--85},
     pdf = {shain_elsner_19.pdf},
-    slides = {shain_elsner_19_slides.pdf},
+    slides_missing = {shain_elsner_19_slides.pdf},
     code = {https://github.com/coryshain/dnnseg},
     recording = {https://vimeo.com/353440477},
     abbr = {NAACL},
@@ -456,7 +463,7 @@
     pages = {4086--4094},
     doi = {10.18653/v1/N19-1413},
     pdf = {shain_19.pdf},
-    slides = {shain_19_slides.pdf},
+    slides_missing = {shain_19_slides.pdf},
     code = {https://github.com/coryshain/cdr},
     recording = {https://vimeo.com/359727110},
     abbr = {NAACL},
@@ -489,7 +496,7 @@
     pages = {2679--2689},
     doi = {10.18653/v1/D18-1288},
     pdf = {shain_schuler_18.pdf},
-    poster = {shain_schuler_18_poster.pdf},
+    poster_missing = {shain_schuler_18_poster.pdf},
     code = {https://github.com/coryshain/cdr},
     abbr = {EMNLP},
     section = {papers},

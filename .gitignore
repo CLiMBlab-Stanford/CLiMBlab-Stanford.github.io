@@ -1,13 +1,25 @@
-_site
-.bundle
-.sass-cache
-.jekyll-cache
+# Jekyll build output and caches
+_site/
+.jekyll-cache/
 .jekyll-metadata
-.DS_store
-.ruby-version
-.tweet-cache
+.sass-cache/
+
+# Ruby / Bundler
+.bundle/
+vendor/
 Gemfile.lock
-assets/libs/
+.ruby-version
+
+# Node
 node_modules/
-vendor
-.idea
+
+# Generated assets
+assets/libs/
+.tweet-cache
+
+# Link checking (lychee)
+.lycheecache
+
+# Editors and OS cruft
+.idea/
+.DS_Store

@@ -148,8 +148,17 @@ kramdown:
 include: ['_pages']
 exclude:
   - bin
+  - CONTRIBUTING.md
+  - CUSTOMIZE.md
+  - Dockerfile
   - Gemfile
   - Gemfile.lock
+  - LICENSE
+  - package.json
+  - package-lock.json
+  - purgecss.config.js
+  - README.md
+  - site_examples
   - vendor
 keep_files:
   - CNAME
@@ -177,18 +186,17 @@ defaults:
       path: "assets/**/*.*"
     values:
       sitemap: false
-  - scope:
-      path: ""
-    values:
-      image: /assets/img/icon.png # Default open graph image
+# this asset does not exist; todo - consider uncommenting if one is added
+#  - scope:
+#      path: ""
+#    values:
+#      image: /assets/img/icon.png # Default open graph image
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
   exclude: ['robots.txt']
-  uglifier_args:
-    harmony: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Archives

@@ -21,7 +21,9 @@ profile:
     align: right
     image: bio_nathan.png
     email: 
-    website: https://nroll.su.domains/
+    # todo(missing)
+    # website: https://nroll.su.domains/
+    website:
     twitter: 
     orcid: 
 

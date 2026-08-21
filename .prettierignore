@@ -5,7 +5,17 @@ assets/css/main.scss
 assets/js/search-data.js
 assets/js/distillpub/template.v2.js
 assets/js/search/*.js
-assets/plotly/demo.html
-lighthouse_results/**
-_posts/2015-10-20-math.md
 _sass/font-awesome/*.scss
+
+### Various files that always error with prettier
+# Archived al-folio demo content: kept for reference (not part of site)
+site_examples/
+
+# Prettier formats this as Markdown and rewrites `@*[year=...]*` to
+# `@_[year=...]_`, which is jekyll-scholar query syntax
+_pages/publications.md
+
+# Prettier cannot parse these (SyntaxError on implied-end-tag HTML)
+_includes/projects.html
+_includes/projects_horizontal.html
+_layouts/about.html

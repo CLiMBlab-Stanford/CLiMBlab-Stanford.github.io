@@ -1,0 +1,10 @@
+{
+  "name": "climblab-site",
+  "private": true,
+  "description": "Build and lint tooling for the CLiMB Lab site. Versions are pinned exactly so CI and local runs produce identical results.",
+  "devDependencies": {
+    "@shopify/prettier-plugin-liquid": "1.11.0",
+    "prettier": "3.9.6",
+    "purgecss": "8.0.0"
+  }
+}

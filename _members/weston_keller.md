@@ -23,7 +23,8 @@ profile:
     align: right
     image: bio_westonkeller.png
     email: 
-    website: https://www.wkeller.dev/
+    # todo(missing) website: https://www.wkeller.dev/
+    website:
 
 
 ---
