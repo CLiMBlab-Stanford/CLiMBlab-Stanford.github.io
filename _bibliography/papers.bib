@@ -1,16 +1,19 @@
 # Publications
 
+# Don't forget to add month, year, and abbr fields
+#   - month, year used for sorting
+#   - abbr field will render where paper was published
+# Note that section field is currently not used anywhere (though could be used to sub-organize this page)
 
 @ARTICLE{Cho2026-rd,
   title    = "Preactivation and probabilistic inference coexist during sentence
               comprehension",
   author   = "Cho, Stephanie and Buggy, Ryan and Staub, Adrian and Shain, Cory",
   journal  = "PsyArXiv",
-  month    =  "15~" # jul,
+  month    =  jul,
   year     =  2026,
   language = "en",
   url={https://osf.io/preprints/psyarxiv/56p4m_v3},
-  section = {preprints},
   abbr = {PsyArXiv},
   bibtex_show={true},
 }
@@ -20,12 +23,12 @@
       title={Artificial Aphasias in Lesioned Language Models},
       author={Nathan Roll and Jill Kries and Laura Gwilliams and Cory Shain},
       year={2026},
+      month = may,
       eprint={2605.16222},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2605.16222},
       bibtex_show={true},
-      section={preprints},
       abbr={arXiv},
 }
 
@@ -36,25 +39,30 @@
     journal={PsyArXiv},
     abbr={PsyArXiv},
     year={2026},
+    month = jul,
     publisher={OSF},
     html={https://osf.io/preprints/psyarxiv/kt3sw_v1},
     bibtex_show = {true}
 }
 
 
-@article{rozner2026perturbationsimpleefficientadversarial,
-      author={Joshua Rozner and Cory Shain},
-      title={Perturbation: A simple and efficient adversarial tracer for representation learning in language models},
-      year={2026},
-      month = {mar},
-      journal = {arXiv},
-      eprint={2603.23821},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      html={https://arxiv.org/abs/2603.23821},
-      bibtex_show = {true},
-      abbr = {arXiv},
-      section = {preprints},
+% todo: update html -> abstract fields after published
+@inproceedings{rozner2026perturbationsimpleefficientadversarial,
+    title={Perturbation: A simple and efficient adversarial tracer for representation learning in language models},
+    author={Joshua Rozner and Cory Shain},
+    editor = "Lee, Hung-Yi  and Dev, Sunipa  and Li, Jessy and Elliott, Desmond",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    year={2026},
+    month = oct,
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    html={https://arxiv.org/abs/2603.23821},
+    doi = "",
+    pages = "",
+    ISBN = "",
+    abstract = "Linguistic representation learning in deep neural language models (LMs) has been studied for decades, for both practical and theoretical reasons. However, finding representations in LMs remains an unsolved problem, in part due to a dilemma between enforcing implausible constraints on representations (e.g., linearity; Arora et al. 2024) and trivializing the notion of representation altogether (Sutter et al., 2025). Here we escape this dilemma by reconceptualizing representations not as patterns of activation but as conduits for learning. Our approach is simple: we perturb an LM by fine-tuning it on a single adversarial example and measure how this perturbation ``infects'' other examples. Perturbation makes no geometric assumptions, and unlike other methods, it does not find representations where it should not (e.g., in untrained LMs). But in trained LMs, perturbation reveals structured transfer at multiple linguistic grain sizes, suggesting that LMs both generalize along representational lines and acquire linguistic abstractions from experience alone.",
+    abbr = {EMNLP},
+    bibtex_show = {true},
 }
 
 
@@ -78,6 +86,7 @@
     author = {Shain, Cory and Fedorenko, Evelina},
     title = {A language network in the individualized functional connectomes of over 1,199 human brains doing arbitrary tasks},
     year = {2026},
+    month = aug,
     journal = {Nature Communications},
     doi = {https://doi.org/10.1038/s41467-026-75745-8},
     url = {https://www.nature.com/articles/s41467-026-75745-8},
@@ -182,6 +191,7 @@
     shorttitle = {What We Mean When We Say Semantic},
     author = {Reilly, Jamie and Shain, Cory and Borghesani, Valentina and Kuhnke, Philipp and Vigliocco, Gabriella and Peelle, Jonathan E. and Mahon, Bradford Z. and Buxbaum, Laurel J. and Majid, Asifa and Brysbaert, Marc and Borghi, Anna M. and De Deyne, Simon and Dove, Guy and Papeo, Liuba and Pexman, Penny M. and Poeppel, David and Lupyan, Gary and Boggio, Paulo and Hickok, Gregory and Gwilliams, Laura and Fernandino, Leonardo and Mirman, Daniel and Chrysikou, Evangelia G. and Sandberg, Chaleece W. and Crutch, Sebastian J. and Pylkk{\"a}nen, Liina and Yee, Eiling and Jackson, Rebecca L. and Rodd, Jennifer M. and Bedny, Marina and Connell, Louise and Kiefer, Markus and Kemmerer, David and {de Zubicaray}, Greig and Jefferies, Elizabeth and Lynott, Dermot and Siew, Cynthia S.Q. and Desai, Rutvik H. and McRae, Ken and Diaz, Michele T. and Bolognesi, Marianna and Fedorenko, Evelina and Kiran, Swathi and Montefinese, Maria and Binder, Jeffrey R. and Yap, Melvin J. and Hartwigsen, Gesa and Cantlon, Jessica and Bi, Yanchao and Hoffman, Paul and Garcea, Frank E. and Vinson, David},
     year = {2025},
+    month = {jul},
     journal = {Psychonomic Bulletin \& Review},
     issn = {1531-5320},
     doi = {10.3758/s13423-024-02556-7},
