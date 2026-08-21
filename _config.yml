@@ -156,6 +156,7 @@ exclude:
   - LICENSE
   - purgecss.config.js
   - README.md
+  - site_examples
   - vendor
 keep_files:
   - CNAME
