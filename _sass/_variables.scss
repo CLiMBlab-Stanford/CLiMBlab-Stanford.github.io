@@ -10,8 +10,10 @@ $red-color-dark:      #B71C1C !default;
 $orange-color:        #F29105 !default;
 $blue-color:          #0076df !default;
 $blue-color-dark:     #00369f !default;
+// Dimensions (configured from _config.yml via main.scss)
+$max-content-width:   800px !default;
+
 $cyan-color:          #8fdff6 !default;
-$light-cyan-color:    lighten($cyan-color, 25%);
 $green-color:         #00ab37 !default;
 $green-color-lime:    #B7D12A !default;
 $green-color-dark:    #009f06 !default;
@@ -20,13 +22,12 @@ $green-color-bright:  #11D68B !default;
 $hopkins-blue:        #68ACE5 !default;
 $hopkins-blue-dark:   #002D72 !default;
 $purple-color:        #B509AC !default;
-$light-purple-color:  lighten($purple-color, 25%);
 $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
 $yellow-color:        #efcc00 !default;
 
 $grey-color:          #ece6e6 !default;
-$grey-color-light:    lighten($grey-color, 40%);
+$grey-color-light:    white; // was lighten($grey-color, 40%), which clamped to white
 $grey-color-dark:     #67676e;
 $grey-900:            #212529;
 
