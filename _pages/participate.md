@@ -7,8 +7,9 @@ nav: false
 nav_rank: 5
 nav_order: 5
 sitetitle: true
-description: 
+description:
 ---
+
 ---
 
 ## Participating in CLiMB Lab Studies
@@ -23,11 +24,10 @@ perform tasks targeting speech comprehension, reading, speaking, memory, problem
 social reasoning, and related functions. If you might be interested in participating in a study, we encourage you to
 sign up for both participant pools below!
 
-If you would like to join our fMRI participant pool, fill out 
+If you would like to join our fMRI participant pool, fill out
 [this form](https://redcap.stanford.edu/surveys/?s=PP38NEPP7P7LYFEW).
 
 If you would like to join our behavioral participant pool, fill out
 [this form](https://redcap.stanford.edu/surveys/?s=JTXYDRDWPAF7M8FX).
 
 You can remove yourself from either pool at any time.
-

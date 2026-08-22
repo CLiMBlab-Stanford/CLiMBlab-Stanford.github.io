@@ -3,39 +3,37 @@
  * To adjust anything, simply edit the variables below and rebuild the theme.
  ******************************************************************************/
 
-
 // Colors
-$red-color:           #FF3636 !default;
-$red-color-dark:      #B71C1C !default;
-$orange-color:        #F29105 !default;
-$blue-color:          #0076df !default;
-$blue-color-dark:     #00369f !default;
+$red-color: #ff3636 !default;
+$red-color-dark: #b71c1c !default;
+$orange-color: #f29105 !default;
+$blue-color: #0076df !default;
+$blue-color-dark: #00369f !default;
 // Dimensions (configured from _config.yml via main.scss)
-$max-content-width:   800px !default;
+$max-content-width: 800px !default;
 
-$cyan-color:          #8fdff6 !default;
-$green-color:         #00ab37 !default;
-$green-color-lime:    #B7D12A !default;
-$green-color-dark:    #009f06 !default;
-$green-color-light:   #ddffdd !default;
-$green-color-bright:  #11D68B !default;
-$hopkins-blue:        #68ACE5 !default;
-$hopkins-blue-dark:   #002D72 !default;
-$purple-color:        #B509AC !default;
-$pink-color:          #f92080 !default;
-$pink-color-light:    #ffdddd !default;
-$yellow-color:        #efcc00 !default;
+$cyan-color: #8fdff6 !default;
+$green-color: #00ab37 !default;
+$green-color-lime: #b7d12a !default;
+$green-color-dark: #009f06 !default;
+$green-color-light: #ddffdd !default;
+$green-color-bright: #11d68b !default;
+$hopkins-blue: #68ace5 !default;
+$hopkins-blue-dark: #002d72 !default;
+$purple-color: #b509ac !default;
+$pink-color: #f92080 !default;
+$pink-color-light: #ffdddd !default;
+$yellow-color: #efcc00 !default;
 
-$grey-color:          #ece6e6 !default;
-$grey-color-light:    white; // was lighten($grey-color, 40%), which clamped to white
-$grey-color-dark:     #67676e;
-$grey-900:            #212529;
+$grey-color: #ece6e6 !default;
+$grey-color-light: white; // was lighten($grey-color, 40%), which clamped to white
+$grey-color-dark: #67676e;
+$grey-900: #212529;
 
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
-
 // Theme colors
 
-$code-bg-color-light:     rgba($purple-color, 0.05);
-$code-bg-color-dark:      #2c3237 !default;
+$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-dark: #2c3237 !default;

@@ -6,26 +6,19 @@ group_rank: 4
 group_order: 1
 external: false
 
-
 title: Josh Rozner
 description: PhD Student
 lastname: Rozner
 
-
 teaser: >
-   My present research focuses on compositionality and productive generalization in language, including language acquisition.
-
-
+  My present research focuses on compositionality and productive generalization in language, including language acquisition.
 
 profile:
-    name: Josh Rozner
-    position: Graduate Student
-    align: right
-    image: bio_josh_avtar.jpeg
-    email: rozner@stanford.edu
-
-
-
+  name: Josh Rozner
+  position: Graduate Student
+  align: right
+  image: bio_josh_avtar.jpeg
+  email: rozner@stanford.edu
 ---
 
 ## Short Bio
