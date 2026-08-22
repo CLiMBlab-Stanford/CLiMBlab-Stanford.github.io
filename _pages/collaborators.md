@@ -8,7 +8,7 @@ nav: false
 nav_rank: 5
 nav_order: 5
 sitetitle: true
-description: 
+description:
 ---
 
 
@@ -24,11 +24,10 @@ description:
                     <img src="{{ '/assets/img/collaborators/' | append: collaborator.image | relative_url }}" class="card-img-top" alt="{{ collaborator.name }}" />
                     <div class="card-body pb-2 pt-2 pl-1 pr-1">
                         <div class="card-title m-0" style="text-align:center; font-size: 95%; font-weight: bold;">{{ collaborator.name }}</div>
-                        <div class="card-affiliation m-0" style="text-align:center; font-size: 85%">{{ collaborator.affiliation }}</div>                        
+                        <div class="card-affiliation m-0" style="text-align:center; font-size: 85%">{{ collaborator.affiliation }}</div>
                     </div>
                 </div>
             </a>
         </div>
     {% endfor %}
 </div> -->
-
