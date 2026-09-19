@@ -20,7 +20,7 @@ profile:
   align: right
   image: bio_yuhan.png
   email: yuhancz@stanford.edu
-  website: https://sites.google.com/view/yhzhang/home
+  website: https://yuhanczhang.github.io/
 ---
 
 ## Short Bio
