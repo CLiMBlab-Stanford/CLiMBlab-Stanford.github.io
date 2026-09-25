@@ -18,7 +18,7 @@ profile:
   name: Miriam Hauptman, PhD
   position: Postdoctoral Researcher
   align: right
-  image: bio_miriam.png
+  image: bio_miriam.jpg
   email: mhauptm@stanford.edu
   website: https://m-hauptman.github.io/
 ---
