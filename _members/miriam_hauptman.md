@@ -12,7 +12,7 @@ lastname: Hauptman
 publications:
 
 teaser: >
-  My research uses neural and behavioral measures to investigate the relationship between language and conceptual knowledge. I’m particularly interested in how we infer discourse-level information from language, and I aim to combine insights from different neuroimaging modalities (e.g., MEG, fMRI) to address this question. Prior coming to joining the CLiMB Lab, I completed my PhD in Psychological & Brain Sciences at Johns Hopkins University.
+  My research uses neural and behavioral measures to investigate the relationship between language and conceptual knowledge. I’m particularly interested in how we infer discourse-level information from language, and I aim to combine insights from different neuroimaging modalities (e.g., MEG, fMRI) to address this question. Prior to joining the CLiMB Lab, I completed my PhD in Psychological & Brain Sciences at Johns Hopkins University.
 
 profile:
   name: Miriam Hauptman, PhD
